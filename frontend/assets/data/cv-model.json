@@ -1,0 +1,50 @@
+{
+	"datos": {
+		"personales": {
+			"Nombre": "",
+			"linkedin": "",
+			"Email": ""
+		},
+		"estudios": {
+			"universitarios": {
+				"Lugar": "UTN - FRT",
+				"Titulo": "Ingeniería en Sistemas de Información",
+				"Estado": "Cursando"
+			},
+			"complementarios": [
+				{
+					"Curso": "ARGENTINA PROGRAMA 4.0",
+					"Período": "2022-2023"
+				}
+			]
+		},
+		"trabajos": [
+			{
+				"Trabajo": "Vendedor",
+				"Período": "2010"
+			}
+		],
+		"habilidades": [
+			{
+				"Tipo":	"Analítico",
+				"Puntaje": "5"
+			},
+			{
+				"Tipo":	"Aprender rápidamente",
+				"Puntaje": "4"
+			},
+			{
+				"Tipo":	"Buen observador",
+				"Puntaje": "5"
+			},
+			{
+				"Tipo":	"Creativo e innovador",
+				"Puntaje": "5"
+			},
+			{
+				"Tipo":	"Comunicación efectiva",
+				"Puntaje": "4.5"
+			}
+		]
+	}
+}

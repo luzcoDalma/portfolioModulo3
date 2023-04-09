@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    text-align: right;
+}
+
+a {
+    margin: 5%;
+}
+/*
+    Tema defectuoso
+*/
+.letra1 {
+    color: #003133
+}
+.letra2 {
+    color: rgba(255, 255, 255, 0.5)
+}
+.letra3 {
+    color: rgba(0, 0, 0, 0.5);
+}
+.letra4 {
+    color: #67989A;
+}
+.letra5 {
+    color: #91b2b3;
+}
+.fondo1 {
+    background-color: #67989A
+}
+.fondo2 {
+    background-color: #417E80
+}
+.fondo3 {
+    background-color: #236467
+}
+.fondo4 {
+    background-color: #0D4A4D
+}
+.fondo5 {
+    background-color: #003133
+}
+.fondo6 {
+    background-color: #FFF;
+}
+/* #236467
+    #91b2b3
+    Tema oscuro
+*/
+
+section {
+    border-color: #7ea4a4;
+}
+
+header {
+    text-align: center;
+    margin: 2%;
+}
+
+#barra {
+    text-align: center;
+}
+
+/*
+@media only screen and (max-width:600px) {
+    body {
+        background-color: #0F364D;
+    }
+}*/
+
+#personal {
+    text-align: right;
+}
+
+section {
+    background-color: white;
+    border-width: 10px;
+    border-radius: 15px;
+    border-color: black;
+    padding: auto;
+    margin: 5%;
+}
+
+img #perfil{
+    height: 100px;
+}
+
+footer {
+    margin: 2%;
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+
+footer img {
+    /**height: fit-content; */
+    /*float: left;*/
+    width: 25%;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+BCD9D9 letra clara - resaltado
+93C0C0 
+6BA3A3 fondo footer y header
+4D8E8E pestaña en uso
+347C7C letra oscura - enfasis seleccion
+*/
+
+/*
+7EA4A4 letra clara - resaltado
+9FBBBB
+CED6D6 fondo footer y header
+929E9E pestaña en uso
+7E8C8C borde - letra oscura - enfasis seleccion
+*/
